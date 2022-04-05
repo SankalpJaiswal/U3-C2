@@ -1,0 +1,19 @@
+#navbar{
+    height: 50px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    margin-top: 15px;
+}
+
+#menu{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+#addtocart{
+    background-color: blue;
+}
